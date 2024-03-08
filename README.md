@@ -1,4 +1,4 @@
-# Disciplina: INV006- Strategic Management of Innovation 2024.1
+# UFABC - Disciplina: INV006- Strategic Management of Innovation 2024.1
 
 ## Análise do artigo
 
