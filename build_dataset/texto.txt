@@ -1,0 +1,694 @@
+Theoretical perspectives on 
+organizations and organizing  
+in a post-growth era
+
+Abstract
+
+ The fundamental assumption we base this Special Issue on is that narrow concepts of growth have 
+become the ruling ideas of this age, entrenched both in everyday life and to a considerable extent 
+in the theoretical thinking and traditions of research conducted by organization and management 
+studies scholars. We explain how tacit (or overt) endorsement of unbridled economic growth 
+(the growth imperative) has pernicious practical effects and how it tends to restrict the intellectual 
+base of the field. We argue that notions of degrowth present scholars with challenges as well as 
+opportunities to reframe core assumptions and develop new directions in theory and research. 
+Envisioning a post-COVID 19 world where societies and organizations can flourish without growth 
+is one of the most difficult tasks facing theorists. We approach this challenge first by discussing 
+the hegemonic properties of growth ideology and second by sketching an alternative political 
+economy as a context for reimagining social and economic relations within planetary capacities 
+in a post-growth era. Drawing on degrowth literature in ecological economics, sociology and 
+political ecology, we identify key principles relevant to processes of organizing for a more just and 
+environmentally sustainable future: frugal abundance, conviviality, care, and open relocalization. 
+We conclude by introducing the three articles we feature in this issue along with some thoughts 
+about theorizing policy and regulatory changes needed to generate transformational change and 
+a future research agenda. 
+Keywords
+ Critical management studies, environmentalism, degrowth, green growth, growth critique, 
+hegemony, political economy, post-growth, steady state economy
+
+Introduction
+ Consider this: the first 4 months of 2020 saw greenhouse gas emissions fall by more than one bil
+lion tons compared with the same period in 2019. If this downward trend continues, annual emis
+sions in 2020 are expected to decline by 8%, the largest decrease ever recorded (Tollefson, 2020). 
+The scale of the reduction is what is required to meet the goals of the Paris Climate Agreement 
+which seeks to limit global warming to 1.5°C to 2°C above preindustrial levels, something that was 
+considered unachievable at the end of 2019 despite declarations of a “climate emergency” by many 
+countries. There have also been dramatic shifts in government policies, corporate strategies, and 
+societal behavior. For example, austerity governments like the United Kingdom’s are spending 
+trillions of dollars on healthcare, welfare, social security systems and housing for the homeless 
+involving mobilization and redistribution of money at never before seen levels. Community sup
+port groups have mushroomed all over the world, prosocial behavior is on the rise, and some major 
+corporations are increasingly focusing on delivering social value. Even the focus of politics appears 
+to be slowly shifting toward collective wellbeing instead of individual interests.
+ These unprecedented changes did not result from any dramatic global climate policies but were 
+forced upon the world by the COVID-19 pandemic, which has killed more than a million people 
+worldwide as of October 2020. The global economy is in freefall, millions of people have lost their 
+jobs, livelihoods have been undermined, primary healthcare in most countries is in critical condi
+tion and mental health and domestic abuse are at crisis levels. The pandemic has also exposed stark 
+social inequalities, injustices and the brutal reality faced by “essential workers” who have become 
+expendable workers to keep the economy afloat. Both the lockdown and the maintenance of essen
+tial services during the lockdown have adversely affected the poor, people of color and other mar
+ginalized groups whose rates of death are disproportionately high because the burden of keeping 
+the economy going during the pandemic falls unduly on them (Reeves, 2020).
+ Climate change exposes and exacerbates similar inequalities: those that have contributed the 
+least to the problem are already suffering and dying in disproportionately high numbers. While cli
+mate change did not cause the pandemic, human activity is responsible in both cases: our fossil 
+fuelled economies of production and consumption have led to the climate emergency including 
+habitat and biodiversity loss that created the conditions for spreading diseases by reducing the natu
+ral barriers between humans and virus carrying animals (Vidal, 2020). Both COVID-19 and climate 
+emergencies are not unfortunate accidents but a result of conscious decisions humans have taken.
+ The climate emergency calls for government action at a similar scale and speed that is being 
+deployed to deal with the pandemic. However, despite global efforts to combat climate change, 
+global emissions of greenhouse gases have risen by 67% since 1990 (Boden et al., 2017). According 
+to a 2013 report by the influential Intergovernmental Panel on Climate Change (IPCC) the planet 
+will face a global average temperature increase of 3 to 5 degrees Celsius by the end of the century, 
+causing severe environmental, economic, political and social upheaval across the world (IPCC, 
+2013). The recent Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem 
+Services (IPBES) report on biodiversity loss sponsored by the United Nations (see Díaz et al., 
+2019) poignantly underscores the urgent need for a sweeping transformation of the world’s eco
+nomic systems. Instead of rebuilding economies of the past, a post-pandemic world offers oppor
+tunities to restructure and decarbonize our economies while creating new and different jobs, 
+organizations, and institutions. The world is waiting for the pandemic to pass so the economy can 
+grow again and life can resume as normal. But what if normal was the problem in the first place? 
+What if this hiatus in the global economy is permanent? What would that mean for the future of 
+growth in organizing our economies? Can the pandemic crisis allow us to imagine radical transfor
+mations that are not contingent on a model of endless economic growth and that can bring about a 
+more just and regenerative world?
+ To the contrary, however, early indications after the relaxation of lockdowns in various parts of 
+the world seem to reflect a desire to return to fossil-fuelled growth economies as global efforts to 
+create a so-called green economy appear to be faltering. Government spending in response to 
+COVID-19 is already more than three times larger than what was spent in the aftermath of the 2008 
+financial crisis but only 1% of the $11 trillion in stimulus money world-wide was dedicated to the 
+“green economy” (IIF, 2020). It appears our political-economic frameworks and the worldviews 
+that guide national and global decision-making are inappropriate for learning from past mistakes 
+even as the current trajectory continues to pave the way to planetary devastation.
+ A conviction underlying this Special Issue is that changing course is possible only if we break 
+our addiction to economic growth, “a drug that corrupts the reasonable and sensible pursuit of 
+prosperity” (Gilding, 2011: 67). Perhaps in addition to focusing on what we should be doing to 
+reduce carbon emissions or expanding renewable technologies a more reflective analysis of how 
+and why we created the climate emergency might provide insights on what we should not be pursu
+ing if we want to create a regenerative world. The mechanistic pursuit of economic growth, which 
+is the fundamental basis of the global capitalist political economy, is largely responsible for the 
+current state of the world—a state rife with concentrated wealth but increasingly impoverished in 
+ecological integrity and social wellbeing (cf. Adloff, 2016). Broad-based questioning of the taken
+for-granted assumption that our societies must be driven almost exclusively by economic growth 
+is a good place to begin. Understanding the hegemonic formations of growth may enable different 
+formulations of the most significant environmental and social problems facing humanity and point 
+the way to a radically different set of solutions.
+ The hegemony of growth
+ This Special Issue is motivated by our perception that narrow concepts of growth have been canon
+ized, often unwittingly, in everyday life and to a considerable extent by organization and manage
+ment studies (OMS) scholars. We also see an urgent need for new critiques of growth that build on 
+classic formulations (e.g. Daly, 1991) and contemporary theory building treatises (e.g. Kallis, 
+2018) to generate intellectual space for thinking differently about growth and organizations. In our 
+view, the time is right for growth to be systematically examined and reflected upon by OMS schol
+ars—particularly those who are interested in the broader political economic context within which 
+ organizations are produced and reproduced. We want to problematize taken-for-granted assump
+tions that underlie traditional notions of growth—that economic growth can be endless and without 
+limits, that resource extraction can proceed without regard for resource depletion or ecological 
+damage, and that economic growth enhances the social wellbeing of all. Our concern is similar to 
+that expressed by Latouche (2009: 95) in his classic book, Farewell to Growth: that reasonable 
+solutions to ecological crises and social problems begin with a trenchant “decolonization of the 
+imaginary,” particularly the dominant modern social imaginary that presents accelerating eco
+nomic growth as the source of all good. Such conventional ideas about economic growth achieve 
+hegemonic power because organizational actors (and scholars who do not reflect on underlying 
+paradigmatic assumptions) tend to reify growth, placing it in the natural order of things, prema
+turely foreclosing any debate about its actual merit, especially in relation to the roles organizations 
+must play in creating spiraling material prosperity. This aggrandizing hegemony is far reaching, 
+implying that growth can solve intractable societal problems like poverty and unemployment, that 
+it creates abundance for all, and that there are no alternatives. Consequently, organizing strategies 
+that produce economic growth tend to be embraced. In this way, growth becomes a driving force 
+for capital accumulation creating multiple dependencies between business firms, investors, suppli
+ers, workers, customers and states and even if there are competing interests between these groups, 
+the pursuit of economic growth becomes both normalized and proposed as the answer to every
+thing. Given this way of thinking, any dissenting views are cast as irrational—“deemed to be the 
+act of lunatics, idealists and revolutionaries” (Jackson, 2009: 14).
+ Our primary concern is that hegemonic obsession with economic growth can lead to reduction
+ist thinking across the board: naïve quantitative formulations of a healthy economy, one-dimen
+sional notions of the good life, instrumental views of the purpose of the natural world and ultimately 
+an uninhabitable planet for humans and countless other species. It can also limit challenges to 
+excessive corporate power and influence while promoting a tacit endorsement of corporations as 
+the primary engines of growth (see Korten, 2013). More boldly, we contend that unchecked eco
+nomic growth is unequivocally unsustainable—economically, socially and ecologically—and also, 
+as we discuss in a later section, that a new vocabulary is needed to imagine life in a post-growth 
+era (D’Alisa et al., 2015). It was apparent decades ago that the thresholds of planetary capacities 
+were being exceeded by business as usual practices (Foster et al., 1997) and this trajectory has only 
+accelerated in subsequent years (Reichel and Seeberg, 2011; Stephen et al., 2018). Relatedly, crit
+ics have raised concerns about the collapse of civilizations as surprisingly fragile capitalist eco
+nomic structures and social and political institutions shake under pressure from growing 
+populations, resource extraction and scarcity, rampant consumerism, and climate change (Brown, 
+2003; Dahlman, 2012).
+ Despite these ominous trends, the assumption that rapid economic growth must be the impera
+tive of the global political economic system is rarely questioned in mainstream economics (Daly, 
+2013) or OMS (Jermier, 1998; Klikauer, 2015; Newton, 2009). Growth forecasts are de rigueur 
+both at the macroeconomic level and at industry and corporate levels. However, as Jackson (2009) 
+points out, economics is ecologically illiterate. Key indicators of purported economic vitality such 
+as Gross Domestic Product (GDP) do not account for ecological destruction that inevitably accom
+panies economic growth. In fact, ecological crises like the massive British Petroleum oil disaster 
+in the Gulf of Mexico or widespread deforestation of the Amazonian rainforests increased GDP 
+because that indicator simply calculates all monetary spending in an economy without distinguish
+ing the negative ecological or social effects of economic activity. Even alternative measures like 
+the Genuine Progress Indicator (GPI) that attempt to quantify environmental and social costs do 
+not systematically question the primacy of growth. As Fournier (2008: 529) argues, it is the ideol
+ogy of growth—“a system of representation that translates everything into a reified and 
+ autonomous economic reality inhabited by self-interested consumers”—that propels the growth 
+machine and that is the fundamental problem. Degrowth1 theorizing begins with a critique of this 
+ideology.
+ An early attempt to understand the effects of unbridled growth was the publication of the Limits 
+to Growth report in 1972. Using a series of computer simulations, the report concluded that given 
+a business as usual scenario the physical limits to growth on earth would become evident during 
+the twenty first century, leading to “sudden and uncontrollable decline in both population and 
+industrial capacity” (Meadows et al., 1972: 23). The research team argued that growth trends could 
+be altered to achieve ecological and economic stability. Although initially discredited and the sub
+ject of heavy criticism, later studies appeared to validate many of the report’s conclusions (Nørgård 
+et al., 2010; Turner, 2008).
+ The primacy of economic growth is not challenged even in discourses of sustainable develop
+ment or climate change (Banerjee, 2012). For instance, the Sustainable Development Goals (SDGs) 
+developed by the United Nations have “sustainable growth” GDP targets—SDG 8 for example 
+aims to “promote sustained, inclusive and sustainable economic growth, full and productive 
+employment and decent work for all” by pursuing a global GDP growth strategy of 3% per annum 
+(Wiedmann et al., 2020). There appears to be little awareness about any possible contradiction 
+between this goal and other goals like SDG 12 (“ensure sustainable consumption and production 
+patterns”) or SDG 13 (“take urgent action to combat climate change and its impacts”)—the prefix 
+“sustainable” magically resolves any contradiction between economic growth and ecological well
+being. Growth is also assumed to be required for urgent action to combat climate change according 
+to the influential Stern report, The Economics of Climate Change. The report claims that the “world 
+does not need to choose between averting climate change and promoting growth and development” 
+and that “with strong, deliberate policy choices, it is possible to decarbonize both developed and 
+developing economies on the scale required for climate stabilization, while maintaining economic 
+growth in both” (Stern, 2006: xi).
+ Both grassroots movements and government actions are needed for any significant shifts from 
+the conventional model of growth and trajectory of accelerated growth. There are currently no poli
+cies in place designed to reduce consumption or production. Instead, government action to reduce 
+environmental impacts of economic growth have focused on cap and trade systems to reduce emis
+sions, carbon taxes, and green investments. Proposed “degrowth friendly” policies include zero 
+interest rates (although that is generally a policy to stimulate growth), progressive taxation, guar
+anteed basic income, worksharing, and a reduced work week (Kallis et al., 2012; Wiedmann et al., 
+2020). It is difficult to imagine how these policies can be implemented in capitalist economies on 
+a voluntary basis without legislation. Other radical proponents of degrowth take an explicitly anti
+capitalist position arguing that capitalism cannot exist without economic growth because capitalist 
+economies can either grow or collapse but can never degrow voluntarily (Foster, 2011; Kallis et al., 
+2012). Consequently, a green capitalist economy based on illusory concepts of “green growth” is 
+simply not possible (Spash, 2020). Alternate approaches include ecosocialism, which highlights 
+the links between exploitation of labor and exploitation of nature and calls for a democratic socio
+ecological transformation of the economy through public ownership of the means of production, or 
+ecoanarchist approaches that aim to create local participatory forms of democracy without state 
+hierarchies (Löwy, 2015).
+ In our view, it is apparent that complex ideological systems supporting unbridled economic growth 
+have been hegemonic in most societies for centuries and increasingly difficult to supplant for decades. 
+Even progressive discourses focused on sustainability and climate policy, areas of thinking most in 
+need of imaginative re-envisioning, seem to be mired in status-quo reinforcing growth narratives. The 
+shared beliefs constituting the dominant modern social imaginary (especially in Western societies) 
+ flow from a deep-seated, usually unspoken commitment to economic growth that captures the 
+imaginations of individuals and shapes their social practices, groupings and societies. We characterize 
+the dominant social imaginary with two factors that have had a powerful effect on the formation of 
+modern societies: (1) the central place assigned to the economic in our private and public lives; and (2) 
+the importance of rising standards of material prosperity for all. In contrast to growthmania, truly 
+effective social imaginaries require “critical and creative thinking that simultaneously allows us to 
+remain critical of what is (the present) and imaginative about what might be (the future)” (Johnsen 
+et al., 2017: 2). A social imaginary as both a concept and practice reflects an enabling structure for the 
+organization of society (Castoriadis, 1987: 3). It is what enables the practices of society and is both 
+defined by and at the same time defines the moral order of society.
+ The potential of the degrowth project and post-growth alternatives is difficult to envision while 
+conventional economic and organizational theories hold sway. To move beyond the false sense of 
+security of the growth imperative, systematic critique that informs the relevant scholarly fields 
+must lay the groundwork for a new social imaginary and new theorizing that initially de-centers 
+and eventually reconceptualizes growth. We discuss these issues in the next section.
+ Towards post-growth social imaginaries: steady-state, green 
+growth and degrowth
+ As environmental crises escalate, alternative social imaginaries that are viable require heightened 
+ecological sensitivities to help frame action that can lead to the wellbeing of people and planet (cf. 
+Perey, 2016). Both ecological economics and the academic field of organizations and the natural 
+environment have enhanced the ecological imagination needed to formulate such post-growth social 
+imaginaries. To illustrate, ecological economist Herman Daly asserted that economic growth that 
+diminishes health and wellbeing is “uneconomic growth” (Daly, 2014: 19) because negative envi
+ronmental and social costs of growth outweigh any economic benefits of high production. One 
+strategy to address this problem that is likely to be unpopular among growth obsessed managers and 
+policy makers is limiting growth, creating sufficiency and focusing on services (rather than products 
+per se) to meet the needs of citizens. In this worldview less is more, small is beautiful and the eco
+nomic ideal is that of a steady state economy. There are fewer products, less material throughput, the 
+rate of extraction of renewable resources is lower than their regeneration, pollution outflows are 
+within planetary boundaries, economic activities are lower in scale, and limits to population growth 
+are in line with the limits of a finite planet (Daly, 1991). While a steady state economy recognizes 
+that there are limits to growth it does not necessarily entail degrowth in the form of economic 
+contraction.
+ Researchers, policy makers and business leaders have proposed ecoefficiency, sustainable 
+development, and green growth as strategies to address the challenges of economic growth. More 
+fuel-efficient cars, alternative engine technologies like hydrogen fuel cells or batteries, and carbon 
+reduction technologies are examples of this strategy. The limits of eco-efficiency strategies, how
+ever, are all too apparent: gains from eco-efficiency are counterbalanced as a result of additional 
+consumption. This rebound effect, known as the Jevon’s Paradox, occurs because improved effi
+ciency lowers the relative cost of using a resource, which in turn increases the quantity demanded 
+(Demaria et al., 2013). For example, reducing the carbon emissions intensity of a particular manu
+facturing process may not lead to a reduction in total emissions if total consumption of the product 
+or service increases as is likely in a growth dominated economy (Slawinski et al., 2017).
+ A more radical critique of growth is the notion of décroissance or degrowth, meaning economic 
+contraction or downscaling based on reducing the energy and resource flows of an economy 
+ (Kallis, 2018). Degrowth is not a particular theory as such but can be described as mot obus, a 
+“word grenade” or “missile word” that aims to create new visions of social, ecological and eco
+nomic transformations, “a political slogan with theoretical implications” (Latouche, 2009: 7). 
+Degrowth challenges the institutions framing the economic, political and cultural dimensions of 
+the modern social imaginary: capitalism and neoliberalism, arguing that these paradigms in their 
+current forms have created the social-ecological crises we now face.
+ Degrowth is a “ruthless critique of the dogma of economic growth” (Kallis, 2018: 1) that ques
+tions the ongoing relevance of these institutions in their current form. For example, it challenges 
+the assumptions of green growth and sustainable development and argues that it is not possible to 
+decouple economic growth from material and energy flows. Despite some evidence of relative 
+decoupling where global GDP has risen faster than carbon dioxide emissions, absolute decoupling 
+(absolute decline in resource use during phases of economic growth) is not happening (Asara et al., 
+2015). In ecological economics degrowth is described as an “equitable downscaling of production 
+and consumption that increases human wellbeing and enhances ecological conditions at the local 
+and global level, in the short and long term” (Schneider et al., 2010: 513). However, degrowth is 
+not just about producing or consuming less but also involves a repoliticization of the economy and 
+a radical break from conventional economic thinking because growth economies and societies do 
+not know how to degrow (Fournier, 2008; Latouche, 2004). It should come as no surprise that there 
+is political opposition to degrowth because in mainstream economics degrowth is equivalent to 
+recession and depression arising from GDP contraction. Degrowth distinguishes wellbeing and 
+prosperity from economic growth and aims to promote economic democracy and social justice and 
+a “concern for a fair distribution (intergenerational and intragenerational) of economic, social and 
+environmental goods and bads at all time-lines” (Demaria et al., 2013: 202). Degrowth is not the 
+same as austerity, which is a neoliberal project imposed on societies during times of recession to 
+protect growth (Chertkovskaya et al., 2017).
+ Imagining a society without growth poses a formidable challenge, yet there are alternative ways 
+of organizing productive activities in a postgrowth economy that make a positive contribution to 
+flourishing, provide decent livelihoods, and use low energy and material throughput, activities that 
+create “prosperity without growth” (Jackson, 2009). Conventional economic wisdom tells us that 
+resisting growth leads to poverty and economic and social collapse, while ecological understand
+ings posit ecosystems collapse in the pursuit of unbridled economic growth. It is important to chal
+lenge economically driven assumptions that imply that abandoning economic growth inevitably 
+means living in a world of poverty, insufficient healthcare and low quality education (which argu
+ably reflects the current situation of the world despite the mantra of economic growth). As men
+tioned earlier GDP is not a valid indicator of the happiness or wellbeing of a country’s citizens and 
+numerous studies have shown that life satisfaction does not keep growing beyond certain levels of 
+income (e.g. Proto and Rustichini, 2013).
+ Even some critics of the growth model, however, do not see moving away from growth as a 
+viable solution and argue that we need a different kind of growth for the transition to a green 
+economy. For example, Pollin (2018) argues that degrowth per se in the form of global GDP con
+traction will not lead to climate stabilization in terms of the extent of emissions reduction that is 
+needed. Some sectors of economic activity—clean energy for example—need to be prioritized for 
+rapid and substantial growth while the fossil fuel sector needs a similar scale and scope of contrac
+tion. Similarly, education and health services need to grow. Thus, a post-growth society requires 
+“selective degrowth” where policy decisions are made democratically about which sectors of the 
+economy need to degrow and which ones need to expand (Kallis, 2011; Latouche, 2009).
+ Global economic contraction, as we have seen during the pandemic, will also lead to massive 
+job losses and increased hardship for the poor and there are no policies in place to deal with 
+ long-term mass unemployment. However, the COVID-19 induced economic contraction was 
+involuntary and not a deliberative plan that emerged out of a genuine, wide-scale democratic pro
+cess so it would be unfair to claim that a planned transition to degrowth would have the same 
+inequitable effects. The response of governments to the dramatic economic slowdown caused by 
+the pandemic is interesting: “normal” recession periods generally involve cuts to public spending 
+but the opposite has happened in response to COVID-19 where we have seen unprecedented levels 
+of public spending, which is the outcome of political actions rather than economic facts (Seaton, 
+2020). A transition to a post-growth economy is ultimately a political decision requiring particular 
+policy choices that favor societal wellbeing over endless GDP expansion.
+ Principles of degrowth thinking
+ To move in that direction, we gleaned some key principles of degrowth from the literature in eco
+logical economics, sociology and political ecology that can be helpful. For example the notion of 
+frugal abundance is understood not as hardship or austerity but as collective sufficiency whereby 
+production is organized to ensure that all basic needs like food, clothing, housing and health are 
+met equitably (Liegey and Nelson, 2020). Collective sufficiency implies that degrowth economies 
+should aim to meet the basic needs of every human being. Importantly, while people experience 
+abundance through collective sufficiency in part due to basic need fulfilment, abundance also 
+entails eudemonic (as opposed to hedonic) happiness and subjective wellbeing that result from 
+fulfilling non-material life goals (D’Alisa et al., 2015. People anchor these forms of fulfilment, for 
+example, in enriched social relationships and the pursuit of the good life with fewer goods. 
+Deliberate frugality is a key principle of degrowth enabled by reducing material inequalities, open
+ing possibilities for broader experiences of abundance.
+ Conviviality is another key principle of degrowth, drawing from Illich’s (1973) work on con
+vivial technologies. Conviviality is the opposite of industrial productivity, which Illich (1973: 7) 
+argues has breached the “counter-productivity threshold,” and focuses instead on the social bene
+fits of technologies that can serve the common good. For Illich, unlike industrial technologies that 
+promote market dependence and are inherently destructive and narrowly purposed, convivial tools 
+(e.g. bicycle) can be easily adapted to many different purposes chosen by individuals and can pro
+mote ecosocial wellbeing (cf. D’Alisa et al., 2015).
+ For many degrowth scholars, care is the hallmark of a healthy society. Social practices that 
+promote daily wellbeing in families, friendships, neighborhoods, communities and nations are 
+essential building blocks for constructing a viable post-growth world but are presently the most 
+taken-for-granted and economically undervalued aspects of societies. Since women provide so 
+much of the care given and since care giving usually falls in the category of “unpaid work,” 
+ecofeminist scholars have argued that we must replace the current growth paradigm, both because 
+it perpetuates existing gender injustices and because it hierarchically arranges destructive indus
+trial activities above care giving (Dengler and Strunk, 2018). Emerging theoretical perspectives on 
+degrowth problematize the hierarchy that elevates paid work done by men often at the expense of 
+environmental considerations above care giving and sets the stage for post growth thinking that 
+embraces a vision of equality in care (D’Alisa et al., 2015).
+ Degrowth economies also call for relocalization of economic activities that involve localized 
+production and distribution, short supply chains, and knowledge and skill sharing in order to reduce 
+our ecological footprint (Liegey and Nelson, 2020). As part of the movement toward voluntary 
+simplicity, eco-communities and sufficiency economies, local thinking aims to transform macro
+economic structures firstly by escaping the system and secondly by radically transforming it hori
+zontally, as local experiments replicate and scale (D’Alisa et al., 2015). In relocalization, citizens 
+ place heavy emphasis on reducing global consumerism, using less commercial energy, celebrating 
+customized autonomous exchange, and building meaningful lives while abiding by, for example, 
+Aldo Leopold’s land ethic.
+ Principles of degrowth aim to deliver quality rather than quantity, the latter being the focus of 
+economic growth. Other radical concepts related to degrowth include democratic decision making, 
+autonomy, production for use, voluntary rather than wage labor, gifts/barter rather than profit shar
+ing, sharing, the commons, and experimental forms of collaborative living (D’Alisa et al., 2015; 
+Fournier, 2008).
+ The emphasis is not on “less” but “different”: “different activities, different forms and uses of 
+energy, different relations, different gender roles, different allocations of time between paid and 
+non-paid work and different relations with the non-human world” (D’Alisa et al., 2015: 4). Given 
+the extent to which growth defines concepts of economic wellbeing, any policy shift towards a 
+degrowth agenda will be difficult to achieve. For organizations, imagining a post-growth scenario 
+becomes even more challenging as we will see in the next section.
+ Imagining post-growth organizations
+ The organizations that an economy comprises tend to reflect the governing hegemonic superstruc
+ture aimed at reproducing that economy. For post-growth organizing to take hold, organizations 
+must respect the ecological limits that constrain the economy and other principles consistent with 
+post-growth thought. One of the main goals of this Special Issue is to explore linkages between 
+growth imaginaries at the macro and micro levels. Theorizing post-growth imaginaries at the mac
+roeconomic level is difficult but the problems are compounded when we try to translate degrowth 
+and other post-growth concepts and principles to the organizational level, especially for large, 
+publicly listed corporations. To elaborate, while multinational corporations, for example, have 
+become adept at translating environmental and social sustainability goals into business opportuni
+ties, most managers and policy makers assume that high levels of economic growth will lead to 
+sustainable (and profitable) outcomes. Consider the Dow Jones Sustainability Index, launched in 
+1999, which assesses company performance on sustainability criteria and defines a sustainable 
+corporation as “one that aims at increasing long-term shareholder value by integrating economic, 
+environmental and social growth opportunities into its corporate and business strategies” (Banerjee, 
+2011: 721). Correspondingly, when Larry Fink (CEO of BlackRock) announces to his company’s 
+shareholders that BlackRock is “on the edge of a fundamental reshaping of finance and will make 
+sustainability its new standard for investing” (BlackRock, 2020) or when Paul Polman (former 
+CEO of Unilever) declares “creating shareholder value is not the same as maximizing short-term 
+profits,” (Polman, 2017) economic growth still remains the dominant ideology for companies.
+ There is a similar discrepancy in mainstream OMS research (and teaching) that reinforces the 
+idea that corporations need to keep growing without regard to planetary boundaries or socio-eco
+logical system needs (Ergene et al., 2020; Nyberg and Wright, 2020). This discrepancy is not lim
+ited to research. Scholars have noted for some time that business schools are educating the next 
+generation of business leaders to endorse a strategy of growth at all costs. Ghoshal (2005) framed 
+this pedagogy as the “Chicago agenda,” arguing that students are uniformly encouraged to think in 
+ways that are ideologically attuned to Milton Friedman’s philosophy of [neo]liberalism and its 
+unique formula for promoting rapid economic growth regardless of social and environmental con
+sequences. In addition to reinforcing ideological assertions about the advantages of radical indi
+vidualism and deregulated capitalism, this approach focuses on theories that reflect these 
+assumptions (e.g. agency theory, transaction cost economics, game theory) and models of steward
+ship that marginalize or exclude ethical considerations. Recent research and commentary on 
+
+ management education underscore the pervasiveness of these biases (Parker, 2018). Given the 
+climate emergency we face, the directive to “grow or die” (that is not difficult to deduce from our 
+research and teaching) can also mean “grow and die.”
+ Imagining post-growth organizations involves identifying ways to create value that do not 
+depend on traditional forms of growth. In line with this, the first step for organizations in their path 
+towards degrowth is understanding and embracing growth independence. This could be inspired by 
+Latouche’s (2009: viii) “virtuous cycle of serene, convivial and sustainable contraction” whereby 
+organizations are challenged to “re-evaluate, reconceptualize, restructure, redistribute, relocalize, 
+reduce, re-use and recycle.” It should come as no surprise that emerging research on how organiza
+tions grapple with the growth dilemma has generally focused on alternate organizations like eco
+communities, cooperatives, urban gardens, social enterprises, credit unions, fair trade organizations, 
+and community farming that prioritize ecological sustainability and wellbeing rather than eco
+nomic growth (Khmara and Kronenberg, 2018; Paulson, 2017, Roman-Alcalá, 2017). For these 
+organizations, economic growth is subordinate to collective forms of ownership, democratic deci
+sion-making, integrating ecological principles into business practices, reducing energy consump
+tion, localization, and redistributing wealth (Rätzer and Winkler, 2018; Wiefek and Heinitz, 2018). 
+Post-growth organizations attempt to create value that is unrelated to growth.
+ Alternative forms of ownership or democratic organizational structures do not necessarily entail 
+a degrowth agenda. The Mondragon business model, for example, which has a worker-owned 
+cooperative structure based on values of participatory management, labor solidarity, and social 
+transformation (Cheney et al., 2014) may mark a departure from conventional organizational and 
+ownership structures but it still plays by the rules of a growth economy. The company’s 2019 
+annual report states that its “overall business trend was positive, in step with the growth dynamics 
+of recent years” and identifies several challenges facing the company including “reorganisation of 
+activities with less potential for growth” (Mondragon, 2020). Other “alternative” companies like 
+Patagonia, despite their strong record on environmental and social issues and democratic govern
+ance, also are probably better described as steady-state or slow-growth rather than degrowth firms 
+(Khmara and Kronenberg, 2018).
+ Studying how small and medium scale enterprises (SMEs) deal with growth can also shed 
+insights into future organizing consistent with post-growth principles. A recent study of European 
+SMEs found that only 2% of sampled SMEs were focused on strong growth and over 25% did not 
+set explicit growth targets (Gebauer, 2018). These findings do not imply that SMEs are explicitly 
+critical of growth or that they embrace the post-growth agenda of wellbeing, social justice and 
+ecological restoration. Resource constraints may very well prevent SMEs from following a growth 
+strategy even if they desire this. Nevertheless, understanding how SMEs and entrepreneurs manage 
+non-growing companies may yield valuable insights on the organizational processes that enable 
+companies to create value without growing, perhaps pointing the way to growth independence and 
+organizational transition to degrowth.
+ For decades, mainstream OMS scholars have tended to equate effective management with 
+growth of the enterprise, most notably beginning with the classics that launched the field of strat
+egy (e.g. Penrose, 1959). There is no more dominant, taken-for-granted system of beliefs circulat
+ing among OMS scholars than the one articulating (or quietly underpinning) the economic growth 
+imperative. Models of post-growth organizations are emerging but to be influential for theory 
+development and policy formulation they must align with the principles of degrowth while also 
+leveraging (in a counter-hegemonic way) against the structures of capitalist exploitation, patriar
+chal domination, postcolonial oppression and other dysfunctions intertwined with economic 
+growthmania. This is by no means an easy task and this special issue is an early attempt to grapple 
+ with the conceptual (and empirical) challenges posed by the degrowth paradigm. We now turn to 
+the articles we feature in the Special Issue.
+ The articles
+ In this Special Issue we have attempted to mobilize theoretical resources in OMS and related fields 
+that harness the critiques of growth literature and generate new connections with degrowth imagi
+naries. The first article we feature, by Vandeventer and Lloveras, explores how an unfamiliar, 
+abstract and challenging concept like degrowth is enacted in OMS research. Drawing on theoreti
+cal insights from science and technology studies, the authors describe the multiple ontologies of 
+degrowth as a boundary object, deployed to fit the needs of different users while maintaining a 
+common meaning. Analyzing how the concept of degrowth is enacted in the management litera
+ture, the authors identify three practices: stabilization of particular understandings of degrowth, 
+reconfigurations of the degrowth concept for specific audiences, and projection that involves map
+ping concepts between degrowth and OMS. Interestingly, while degrowth can operate usefully as 
+a boundary object in the field, the authors caution against the dilution of degrowth’s radical poten
+tial as its use expands in the relevant research communities.
+ The second article, by Pansera and Fressoli, problematizes the role of technological innovation 
+in a post-growth era. It is often argued by business leaders, economists and other Panglossian 
+thinkers that technology will enable humanity to innovate itself out of the climate emergency. The 
+authors describe how theories of technology are often misleading when it comes to explaining 
+deterministic impacts on society and presupposed progress. They also show how particular con
+ceptualizations of technological innovation normalize growth without questioning the latter’s 
+problematic aspects. The authors explore the potential to decouple technological innovation from 
+growth by discussing some modes of organizing that can realign innovation for postgrowth 
+organizations.
+ The third article, by Chertkovskaya and Paulsson, uses Marxist theory in characterizing growth 
+as violence—against humans and against nature. Climate change in particular, they argue, should 
+be seen as a form of “slow corporate violence” that can render the planet uninhabitable if it contin
+ues unabated. The authors contend that in capitalist modes of production so called productive 
+forces like natural resources, labor, technology and money inevitably produce destructive effects 
+along with whatever benefits might arise. Drawing on theoretical concepts from ecosocialism and 
+degrowth, the authors explain how the exploitation of labor and unequal ecological exchange can 
+destroy the social metabolism between nature and society. They theorize that in a political eco
+nomic system based on degrowth principles, natural resources will not be put to destructive use but 
+reimagined as ecosystems that can support a regenerative metabolism. The authors add a precau
+tionary note in advocating a transition to a post-growth society: if degrowth is to mark a truly 
+regenerative shift it must be equitable and not reproduce the inequities and violence of growth.
+ Perhaps COVID-19 may provide the impetus for such a regenerative shift. A recent poll in the 
+United Kingdom found that more than 8 in 10 people wanted the government to prioritize health 
+and wellbeing over economic growth during the coronavirus crisis. More than 6 in 10 felt that the 
+government should prioritize improved social and environmental outcomes ahead of GDP after the 
+pandemic has subsided, although nearly a third would prioritize the economy instead at that point 
+(Youel, 2020). For this to happen, socially essential institutions like the welfare state, healthcare, 
+education, and environmental protection need to be reformed so that they are independent of per
+turbations in GDP growth. Envisioning alternate realities and escaping the tyranny of growth and 
+accumulation requires reimagining our economic, ecological and social relations. This is 
+ fundamentally a political task and in our concluding sections we outline a new political economy 
+that is required for a degrowth social imaginary and discuss directions for future research.
+ Toward a new political economy: Imagining redistribution, 
+restoration, cooperation and sufficiency
+ The COVID-19 pandemic has made the world more aware that human health is dependent not 
+just on medical institutions but on healthy ecological and social systems. The crisis has also 
+exposed the brutal reality faced by “essential workers” who have perished in record numbers to 
+keep economies afloat. Initiatives such as universal basic income, routinely tabled and forgot
+ten at policy meetings, are now back on the agenda. After decades of romance with laissez-faire 
+economics, the state has assumed a more prominent role in regulating the economy. Many small 
+businesses were driven to the wall by extreme economic dislocation, while others found inven
+tive ways not only to survive but also to flourish. Some maintained employment and managed 
+to support families and their communities. Can we use these seeds of solidarity to create better 
+ways of organizing? What if we were to redesign an economy that is guided by human wellbe
+ing and prosperity within ecological boundaries (Jackson, 2009)? An economy that merges 
+community wellbeing and individual subjective wellbeing with the aim of “being well together” 
+(Atkinson et al., 2020: 1903)? We offer some alternative visions of what such an economy 
+could look like, while acknowledging that how this is to be achieved on multiple scales remains 
+a profound challenge for society and for theorists. We call for abandoning an economy based 
+on accumulation in favor of embracing distribution, creating an economy of restoration rather 
+than extraction, managing a shift from ideals of competition to ideals of cooperation, and from 
+consumerism to values based on sufficiency.
+ From accumulation to distribution
+ Capitalism, markets and their associated corporate forms of organizing are powerful engines of 
+accumulation but cannot address (and may even exacerbate) problems of inequality and dispro
+portionate access to resources. Accumulation in many cases involves dispossession of commu
+nities where wealth is created for the few at the expense of the many (Harvey, 2003). For some 
+time, accumulation and consumption in affluent societies have not been matters primarily of 
+needs or even appetite, but increasingly markers for status which extends their limits almost 
+without end. The consequences for growth and demands on the environment are obvious. The 
+shift to a post-growth society will require us to recover the sense that our collective wellbeing 
+is not just defined by GDP growth rates but by our capacity and willingness to share our wealth 
+and a recognition that that inequality fundamentally undermines wellbeing (Wilkinson and 
+Pickett, 2009).
+ The scale of financial redistribution to deal with the pandemic is unprecedented in human his
+tory. In just 9 months, governments have spent more than three times the amount of money to 
+tackle the virus than all the money spent to address the financial crisis of 2008 (IIF, 2020). Climate 
+change, biodiversity and other ecological emergencies need a similar scale of redistribution of 
+wealth. This reorientation, with its reduction of the individualism that drives accumulation and 
+consumption as symbols of status, will contribute to a post-growth society by reducing demand. At 
+the same time, it supports a distributive arrangement that shrinks inequality and thus improves 
+societal health. While advocates for growth claim that “growth is a substitute for redistribution,” in 
+a post-growth society, a system of genuine redistribution can become a substitute for growth 
+(Hickel, 2017).
+ From extraction to restoration
+ The world’s economies are primarily based on extraction (and use) of non-renewable natural 
+resources, which is the largest source of ecological degradation. Apart from oil and gas, mining and 
+metals extraction form the basis of our material life. A post-growth society requires dematerializa
+tion of the economy as it directly correlates to patterns of consumption and their associated pro
+cesses of production, resource extraction and end-of-life disposal needed to maintain our desired 
+standards of living. Achieving the required level of dematerialization to stop ecological harm will 
+radically alter our economic systems at macro and micro levels. It will mean that the current pattern 
+of consumption will no longer define lifestyles, work practices and the broader culture. This trans
+formation in patterns of consumption needs to change from those supporting extraction to those 
+supporting regeneration and cannot be achieved without substantial dematerialization of the 
+world’s industrialized economies.
+ However, much of the environmental and social costs of extraction are kept out of sight while 
+governments continue to subsidize the fossil fuel economy and their associated industrial sectors. 
+The vast majority of the COVID-19 stimulus money announced by governments has gone to pow
+erful fossil fuel industries: more than half a trillion dollars worldwide is to be given away to high
+carbon industries, with no conditions to ensure they reduce their carbon output. The European 
+Central Bank has given €220bn to 38 fossil fuel extractive companies including Shell and Total, 
+and several coal companies. Last year 77 countries gave away $478bn of government subsidies to 
+the production and consumption of fossil fuels (Harvey, 2020).
+ We live in a world in which an oil disaster on land or in the oceans or destroying forests is, by 
+the perverse measures in common use, economically rewarding and politically advantageous for 
+elites. We live a world in which a dead tree is worth more than a living one. Growing your own 
+vegetables or taking care of an aged relative, however, are considered by conventional measures to 
+be unproductive and economically worthless activities. In the UK during the height of the pan
+demic, the National Health Service issued an initial call for 30,000 volunteers. More than half a 
+million volunteers signed up in less than 24 hours, with numbers exceeding a million over the next 
+few days. Could we imagine a society and economy where volunteering to help people is a produc
+tive activity that increases the wealth of a society by enhancing its wellbeing? Where restoring 
+forests is seen as being more beneficial than destroying them?
+ From competition to cooperation
+ There is good evidence to show that sometime in the last two million years, human beings took an 
+evolutionary jump in the direction of cooperating and distributing wellbeing well beyond kin, in 
+relatively large communities, and thus favored the accumulation of things in communities that 
+benefitted sharing rather than individual consumption (Boyd and Richerson, 2009). While the 
+community benefits that accrued relied on the cumulative effect of individual efforts, those efforts 
+and their benefits were not framed in individual terms. They were located in a sense of membership 
+in something bigger, where both effort and outcomes were shared, and in values that are reflected 
+in many community based enterprises (Peredo and Chrisman, 2006). Cooperation was a fundamen
+tal taken-for-granted value but was replaced by competition in modern economic life as the value 
+that purportedly generates wellbeing. Notwithstanding the positive effects of an economy based on 
+competition, endless competition creates destructive environmental impacts and also fuels inequal
+ity and conflict (Krupp and Cook, 2018).
+ The pandemic has also seen shifts in corporate competitive behavior in some cases. When 
+COVID-19 related hospitals and deaths were at record levels earlier this year, seven teams from 
+
+ Formula 1 racing, a fiercely competitive field notoriously secretive about its technologies, shared 
+their technologies and cooperated to manufacture ventilators. Imagine if powerful multinational 
+companies or even smaller regional companies started doing the same? What kind of economy 
+would emerge where companies share technology and resources to address environmental and 
+social problems?
+ From consumerism to sufficiency
+ The lockdowns due to COVID-19 brought a significant reduction in demand for many goods and 
+services (Guerrieri et al., 2020; Rio-Chanona et al., 2020) as well as a decline in spending on cor
+porate advertising (World Economic Forum, 2020). Extended lockdowns created a kind of existen
+tial crisis that forced many to reflect and reevaluate their relationships: relationships with people, 
+with animals and nature, with the spiritual world, compared with what can be experienced in rela
+tion to material objects. Many discovered the joy of being in natural and public spaces, cultivating 
+vegetable gardens at home, exchanging products and sharing collective knowledge necessary to 
+make things themselves (Walljasper and Polansek, 2020). While COVID-19 has shifted consumer 
+behavior, it remains to be seen if there is a permanent decline in mindless consumerism, one of the 
+hallmarks of the growth model.
+ The detrimental material impact of consumerism is increasingly felt in two ways: the extraction 
+of resources from nature needed to create goods; and the disposal of those goods when they have 
+reached their end of life. The key issue here is that the ecological systems on which our economies 
+depend, have finite limits, for both the provision of resources that humanity needs and the capacity 
+to absorb and transform waste back into useful ecological resources. Governments and communi
+ties can play an important role by creating and empowering organizations that de-emphasize con
+sumerism. Such organizations would focus on meeting needs rather than selling stuff. They would 
+manage assets for the purpose of delivering long-term wellbeing to asset owners, rather than deliv
+ering short-term financial returns to managers (Dietz and O’Neil, 2013). A collective and activist 
+consumer culture that is based on sharing, reusing, repairing, regeneration and recycling can pose 
+a challenge to the planned obsolescence strategy of manufacturers, perhaps forcing them to cater 
+to shifts in consumer demands and preferences.
+ It is also important to point out that critiques of growth that emerged in mainly European and 
+North American contexts are also closely related to critiques of development and grassroots move
+ments in Latin America and Asia that emerged in the 1990s. Advocates of “post-development” 
+called for alternatives to neoliberal modes of development and for moves to decenter development 
+as a central discourse that imposed reality for Africa, Asia and Latin America (Escobar, 2015; 
+Esteva et al., 2013; Shiva, 2005). In particular the notion of Buen Vivir (good life or collective 
+wellbeing) gained considerable currency in Latin America (Gudynas, 2011; Kothari et al., 2014; 
+Peredo, 2019). Emerging from Indigenous struggles against development projects in Latin America, 
+Buen Vivir represents a “holistic, de-economized view of social life, constituting an alternative to 
+development” that reflects Indigenous ontologies which makes possible “the subordination of eco
+nomic objectives to ecological criteria, human dignity, and social justice” (Escobar, 2015: 455). 
+Buen Vivir and degrowth have been described as “fellow travelers” in search for socio-ecological 
+transformations with some commonalities and differences. While some proponents of steady-state 
+and degrowth argue that the global North needs to degrow to allow the global South to “develop” 
+(e.g. Daly, 1991; Jackson, 2009) others argue against this form of “catch up development.” They 
+caution against endorsing growth as a basis for improving social and economic welfare in poor 
+countries and advocate the idea that “growth and the economy should be subordinated to Buen 
+Vivir and the rights of nature, not the other way around” (Escobar, 2015: 456). The challenge 
+ whether in the global North or South is the same: how to make degrowth socially sustainable and 
+politically feasible? The challenge for OMS scholars is to translate degrowth principles into the 
+organizational context. This translation goes beyond studying alternate organizational forms or 
+structures of governance because it focuses first on how organizations can learn to degrow. In our 
+concluding section we offer some thoughts on a future research agenda for post-growth organiza
+tions and institutions.
+ Planetary crises and post-growth organizing: A research agenda
+ Our aim for this Special Issue is to disturb the relative calm in the field of OMS, which in the main 
+appears disinterested in earnestly addressing global warming and related threats of planetary dev
+astation –a field that has become “climate proofed” as Nyberg and Wright (2020) describe it. We 
+call for a more assertive and uncompromising research agenda to address planetary crises. We 
+think this is necessary if we want our field to offer deeper insights when it comes to environmental 
+crisis points (and inter-related societal problems) as well as post-growth organizing in line with a 
+new political economy centered on redistribution, restoration, cooperation and sufficiency.
+ A first step would be to interrogate the silences and absences of theorization about growth in 
+OMS. While critiques of economic growth and the search for alternatives are well established in 
+other fields, research in OMS shows little sign of acknowledging the problem of growth, let alone 
+advocating alternative visions. Ecological economics, for example, challenges the orthodoxy of 
+mainstream economics by focusing on human wellbeing, strong sustainability, and economic and 
+ecological justice. Sustainability research in OMS on the other hand is more about corporate sus
+tainability and making a business case for sustainability rather than an ecological case for business 
+(Ergene et al., 2020). There is a need to understand the taken-for-granted assumptions in OMS 
+theories that normalize and reinforce growth. Which theories of organization and organizing are 
+complicit in at least tacitly endorsing growth at all costs while ignoring its negative outcomes? 
+What assumptions about growth underpin the wide acceptance of organizational performance cri
+teria such as sales revenue, shareholder value, or return on assets? The scenario depicting business 
+as usual in terms of economic growth needs to be replaced or at least counterbalanced with one 
+depicting business as usual in terms of ecological disaster.
+ Second, the degrowth movement, degrowth economics, and social science research focused on 
+degrowth offer OMS scholars an opportunity to reflect on the field’s paradigmatic orientations 
+towards the environment, as was more typical in previous decades. While degrowth thinking and 
+research have been criticized for targeting the abstract concept of economic growth rather than the 
+concrete reality of capital accumulation or some more traditional category of radical analysis (see 
+Foster, 2011), we see potential in the degrowth paradigm to support new scholarly alliances among 
+critical theorists and to help generate alternative critical perspectives on organizations. The Special 
+Issue authors illustrate this potential in making provocative connections with Actor-Network the
+ory and Science and Technology Studies (Vandeventer & Lloveras), Marxist theory and ecosocial
+ist futures (Chertkovskaya & Paulsson), and theoretical interpretations of appropriate technology 
+and convivial innovation (Pansera). If what is needed is integrated theory that reflects a “co-revo
+lutionary movement” bringing together the traditional working class critique of capital, the cri
+tiques of imperialism, patriarchy, racism and colonialism, along with the critique of ecologically 
+destructive growth (Harvey, 2002 as cited in Foster, 2011), clearly the degrowth paradigm must 
+play at least a complementary role.
+ Third, we need more theory building that articulates post-growth possibilities at the organiza
+tional level. What ethical theories of the firm are needed that can explain and justify an organiza
+tion’s existence based on its ability to contribute to societal wellbeing and ecological restoration 
+ rather than based on its ability to contribute to economic growth? What business models can 
+researchers make compatible with post-growth scenarios? If dematerialization of economies is a 
+key step in the transition to post-growth, what are the limits of dematerialization for 
+organizations?
+ Fourth, there is a need to understand the institutional arrangements that can facilitate a tran
+sition to degrowth, in particular the role of the state and civil society in creating institutional 
+change. While most existing institutions are not likely to support degrowth policies, they will 
+still have to play a part in building post-growth economies through a process of institutional 
+change and reform. Civil society actors play a key role in institutional transition and more 
+research is needed to understand the tensions between bottom-up initiatives by activists calling 
+for radical institutional change and resistance by institutional actors who want to maintain the 
+status quo (Joutsenvirta, 2016). It is apparent that business and markets will not voluntarily 
+support degrowth initiatives so democratic states will need to play the crucial role in accelerat
+ing the transition to post-growth. Corporate social responsibility initiatives will not keep the oil 
+or coal in the ground—strong and enforceable regulation is needed for that to happen. While 
+governments around the world are incentivizing investments in renewable energy they also 
+subsidize fossil fuel companies—according to a recent IMF report global energy subsidies for 
+fossil fuels amounted to $5.2 trillion in 2019, about 6.5% of global GDP (Coady et al., 2019). 
+These institutional arrangements need to be challenged and reformed if policy makers are seri
+ous about ecological restoration.
+ The global economic contraction forced by COVID-19 has shown that the world’s economies 
+are defined more by employment than by interest rates, fiscal policy, oil price fluctuations, demand 
+or supply factors, or technological innovations (Meadway, 2020). Since the pandemic poses a 
+grave threat to the labor market and since the status and quality of employment are so central to 
+perceived quality of life, many people seem to be rethinking all aspects of their lives. This interlude 
+of uncertain duration is extracting a toll but it may ultimately provide citizens with a welcome 
+ramp off the treadmill of production and consumption. Perhaps the existential crisis created by 
+COVID-19 can enable deeper reflection on the real meaning of employment and labor markets in 
+a post-growth world, not just as jobs but in relation to the meaning of work itself. Perhaps it will 
+facilitate questions about what work and how much work is necessary to lead an enriching life, 
+about what goods and services are essential for a regenerative world, and how we organize society 
+around the provision of these precious goods and services? Otherwise, there is a real danger that 
+our obeisance to growth will become what Lear (2008) calls the “blind spot” of any culture: the 
+inability to conceive of its own destruction.

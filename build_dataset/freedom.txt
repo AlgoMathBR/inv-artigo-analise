@@ -1,0 +1,185 @@
+Entity,Score
+Afghanistan,0
+Albania,64.8
+Algeria,43.9
+Angola,54.3
+Argentina,49.9
+Armenia,64.9
+Australia,76.2
+Austria,68.4
+Azerbaijan,61.6
+The Bahamas,62.5
+Bahrain,63.4
+Bangladesh,54.4
+Barbados,66.8
+Belarus,48.4
+Belgium,65.6
+Belize,61.2
+Benin,57.7
+Bhutan,55.4
+Bolivia,43.5
+Bosnia and Herzegovina,62
+Botswana,68
+Brazil,53.2
+Brunei Darussalam,65.9
+Bulgaria,68.5
+Burkina Faso,51.9
+Burma,42.2
+Burundi,38.4
+Cabo Verde,62.9
+Cambodia,55.6
+Cameroon,53.6
+Canada,72.4
+Central African Republic,41.3
+Chad,51.4
+Chile,71.4
+China,48.5
+Colombia,59.2
+Comoros,52
+Democratic Republic of Congo,47.6
+Republic of Congo,47.8
+Costa Rica,67.7
+Côte d'Ivoire,58.4
+Croatia,67.2
+Cuba,25.7
+Cyprus,72.2
+Czech Republic,70.2
+Denmark,77.8
+Djibouti,55.8
+Dominica,54
+Dominican Republic,62.9
+Ecuador,55
+Egypt,49.7
+El Salvador,54.4
+Equatorial Guinea,47.7
+Eritrea,39.5
+Estonia,77.8
+Eswatini,55.6
+Ethiopia,47.9
+Fiji,58
+Finland,76.3
+France,62.5
+Gabon,56.9
+The Gambia,58.2
+Georgia,68.4
+Germany,72.1
+Ghana,55.8
+Greece,55.1
+Guatemala,62.4
+Guinea,53.3
+Guinea-Bissau,42.7
+Guyana,57.3
+Haiti,48.2
+Honduras,58.6
+Hungary,61.2
+Iceland,70.5
+India,52.9
+Indonesia,63.5
+Iran,41.2
+Iraq,0
+Ireland,82.6
+Israel,70.1
+Italy,60.1
+Jamaica,68.1
+Japan,67.5
+Jordan,58.3
+Kazakhstan,62
+Kenya,53.6
+Kiribati,51.3
+North Korea,2.9
+South Korea,73.1
+Kosovo,60.6
+Kuwait,58.5
+Kyrgyz Republic,55.2
+Laos,50.6
+Latvia,71.5
+Lebanon,48.3
+Lesotho,51.9
+Liberia,49.9
+Libya,0
+Liechtenstein,0
+Lithuania,72.9
+Luxembourg,79.2
+Madagascar,57.3
+Malawi,52.1
+Malaysia,65.7
+Maldives,47.8
+Mali,52.5
+Malta,64.5
+Mauritania,55.3
+Mauritius,71.5
+Mexico,62
+Micronesia,61
+Moldova,57.1
+Mongolia,60.6
+Montenegro,59.7
+Morocco,56.8
+Mozambique,50.7
+Namibia,57.5
+Nepal,52.1
+Netherlands,77.3
+New Zealand,77.8
+Nicaragua,53.4
+Niger,52.3
+Nigeria,53.1
+North Macedonia,61.4
+Norway,77.5
+Oman,62.9
+Pakistan,49.5
+Panama,64.1
+Papua New Guinea,49.4
+Paraguay,60.1
+Peru,64.8
+The Philippines,59
+Poland,66
+Portugal,68.7
+Qatar,68.8
+Romania,64.4
+Russia,52
+Rwanda,51.6
+Samoa,67.2
+São Tomé and Príncipe,60.5
+Saudi Arabia,61.9
+Senegal,55.4
+Serbia,62.7
+Seychelles,60.4
+Sierra Leone,44.6
+Singapore,83.5
+Slovakia,68.1
+Slovenia,65.9
+Solomon Islands,55
+Somalia,0
+South Africa,55.3
+Spain,63.3
+Sri Lanka,49.2
+Saint Lucia,62.2
+Saint Vincent and the Grenadines,59.8
+Sudan,33.9
+Suriname,46.7
+Sweden,77.5
+Switzerland,83
+Syria,0
+Taiwan,80
+Tajikistan,51.3
+Tanzania,59.1
+Thailand,59
+Timor-Leste,50.2
+Togo,50.9
+Tonga,59.2
+Trinidad and Tobago,60.4
+Tunisia,48.8
+Türkiye,56.2
+Turkmenistan,46.3
+Uganda,50.7
+Ukraine,0
+United Arab Emirates,71.1
+United Kingdom,68.6
+United States,70.1
+Uruguay,69.8
+Uzbekistan,55.9
+Vanuatu,62.2
+Venezuela,28.1
+Vietnam,62.8
+Yemen,0
+Zambia,48.4
+Zimbabwe,38.2
