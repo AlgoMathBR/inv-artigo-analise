@@ -25,8 +25,11 @@ python -m venv venv
 
 
 >pip install wordcloud
+
 >pip install nltk
+
 >pip install matplotlib
+
 >pip install pandas
 
 
